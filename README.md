@@ -14,6 +14,7 @@ I'm Filipe Lacerda, a Full Stack developer specializing in TypeScript.
 ## 📚 Recent Work
 
 1. **Fibonnaci Functions**: A repository with functions based on the fibbonaci sequence. Link to the project
+2. **Get api data react**: A simple react project that retrieve some api datas and show
 
 ## 📫 Get in Touch
 
